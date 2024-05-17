@@ -8,21 +8,9 @@ body {
 .form {
     background-color: #e5e5e5;
     margin-top: 100px;
-    margin-left: 600px;
+    margin-left: 200px;
     width: 580px;
-    height: 780px;
-    padding-top: 50px;
-    padding-left: 100px;
-    border: 5px solid black;
-    border-radius: 40px;
-}
-
-.forms {
-    background-color: #e5e5e5;
-    margin-top: 250px;
-    margin-left: 600px;
-    width: 580px;
-    height: 500px;
+    height: 700px;
     padding-top: 50px;
     padding-left: 100px;
     border: 5px solid black;
@@ -34,7 +22,7 @@ body {
 input {
     margin-top: 18px;
     margin-left: 50px;
-
+    text-align: center;
 }
 
 .input {
@@ -141,7 +129,7 @@ label {
 /*Boton*/
 
 .fancy {
-    margin-top: 100px;
+    margin-top: 50px;
     background-color: transparent;
     border: 2px solid #000;
     border-radius: 30px;
